@@ -20,8 +20,8 @@ Hoje, sou um profissional **proativo, curioso e com aprendizado rápido**, sempr
 ### 🧠 Tecnologias que uso
 
 #### Front-end:
-- HTML, CSS, JavaScript  
-- React Native  
+- HTML, CSS, Tailwind CSS, SASS, JavaScript  
+- React Native, Next.js
 - Figma (UI/UX)
 
 #### Back-end:
