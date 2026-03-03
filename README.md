@@ -25,10 +25,8 @@ Hoje, sou um profissional **proativo, curioso e com aprendizado rápido**, sempr
 - Figma (UI/UX)
 
 #### Back-end:
-- Supabase  
 - MySQL  
-- APIs REST  
-- Firebase
+- APIs REST
 
 #### Extras:
 - Git & GitHub  
