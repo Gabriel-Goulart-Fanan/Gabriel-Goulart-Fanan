@@ -4,7 +4,7 @@
 
 Trabalho com **HTML, CSS e JavaScript** para criar interfaces modernas, responsivas e bem construídas.  
 No mobile, desenvolvo com **React Native**, com experiência em todo o ciclo: da ideia ao app rodando na mão do usuário.  
-No back-end, integro APIs, banco de dados e autenticação com **Supabase** e **MySQL**.
+No back-end, integro APIs, banco de dados e autenticação com **MySQL**.
 
 ---
 
