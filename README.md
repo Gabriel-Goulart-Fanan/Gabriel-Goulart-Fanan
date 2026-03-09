@@ -46,7 +46,7 @@ Hoje, sou um profissional **proativo, curioso e com aprendizado rápido**, sempr
 ### 🎯 Buscando oportunidades como:
 - **Dev Front-end Jr.**  
 - **Dev Mobile Jr.**
-- - **DevOps**
+- **DevOps**
 
 > Pronto para entrar em campo e fazer a diferença.
 
